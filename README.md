@@ -54,8 +54,6 @@ The application emphasizes simplicity, interactivity, and ease of use, making it
   <tr>
     <td><img src="https://github.com/user-attachments/assets/f371dfba-044d-4589-9979-7550bdf6bbb6" width="250" /></td>
     <td><img src="https://github.com/user-attachments/assets/1c51dfb9-4dbe-4f72-925c-9f6edc196c36" width="250" /></td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/user-attachments/assets/466d6759-39f9-4c0e-b795-d3789cf20b25" width="250" /></td>
     <td><img src="https://github.com/user-attachments/assets/6d2f22eb-dea0-45f1-aa92-cff280936cdf" width="250" /></td>
   </tr>
